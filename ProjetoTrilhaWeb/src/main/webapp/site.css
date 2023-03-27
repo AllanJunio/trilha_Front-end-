@@ -5,6 +5,7 @@
 /* Menu */
 
 header {
+
     height: 170px;
     background-color: #008eb6;
 
@@ -16,6 +17,7 @@ header img {
     width: 150px;
     margin: 10px;
 }
+
 
 header h1 {
 
@@ -53,7 +55,7 @@ nav .opcao:houver {
 /*Área deral para conteúdos específicos de cada página*/
 section {
     clear: both;
-    min-height: 466px;
+    min-height: 391px;  
     width: 100%;
     margin-top: 0px;
 }
